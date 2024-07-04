@@ -82,4 +82,4 @@ service vos3000d restart && service mbx3000d restart
 
 安装包和注册机都来自https://github.com/richfang/vos30002.4
 
-客户端exe程序来自http://bltcall.com/nd.jsp?id=54#_jcp=4_8页面的下载链接http://22182244.s21d.faiusrd.com/0/ABUIABBLGAAgqYPD8wUoocDVmQI.exe?f=vos3000v2.1.4.0client.exe&v=1584447914
+客户端exe程序来自 http://bltcall.com/nd.jsp?id=54#_jcp=4_8 页面的下载链接 http://22182244.s21d.faiusrd.com/0/ABUIABBLGAAgqYPD8wUoocDVmQI.exe?f=vos3000v2.1.4.0client.exe&v=1584447914
