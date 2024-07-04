@@ -1,0 +1,9 @@
+#!/usr/bin/expect
+spawn ./jrockit-jdk1.6.0_45-R28.2.7-4.1.0-linux-x64.bin
+expect {
+    "t]>" { send "\r"; exp_continue }
+    "t]>" { send "\r"; exp_continue }
+    "t]>" { send "\r"; exp_continue }
+    "t]>" { send "\r"; exp_continue }
+    "t]>" { send "\r" }
+}

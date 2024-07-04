@@ -1,0 +1,6 @@
+#!/usr/bin/expect
+spawn rpm -ivh --nodeps --force vos3000-weblib-2.1.4-0.i586.rpm
+expect {
+    "Y/n]:" { send "\r"; exp_continue }
+    "Y/n]:" { send "\r" }
+}
