@@ -28,6 +28,10 @@ ntpdate 10.45.151.174
 
 hwclock -w
 
+把 jrockit-jdk1.6.0_45-R28.2.7-4.1.0-linux-x64.7z 包解压下，因为github不能传超过100M的包，所以分卷分成了三个文件
+
+理论上可以使用jrockit.exp来静默安装，不过脚本里没用这个安装。而是弹出了图形。
+
 修改install.sh
 
 把./vos30002140.bin以下的清理操作注释掉
